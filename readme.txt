@@ -1,0 +1,3 @@
+- pyhton muss installiert sein (kann über den Windows Store installiert werden)
+- cmd als Admin ausführen
+- python app.py
